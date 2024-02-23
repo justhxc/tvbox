@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "name": "聚合",
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/justhxc/tvbox/main/single.json"
+        },
+        {
             "name": "🐯精简",
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
         },
@@ -8,6 +12,10 @@
             "name": "🐝蜂蜜",
             "url": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
         },
+        {
+            "name" :"👌ok",
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"
+        }
         {
             "name": "🐼肥猫",
             "url": "http://我不是.肥猫.live/接口禁止贩卖"

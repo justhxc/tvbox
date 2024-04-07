@@ -7,8 +7,11 @@
         {
             "name":"首选"
             "url":"https://agit.ai/Yoursmile7/TVBox/raw/commit/b31527ba0dafac9b99b61ef3dd1cd2bd43760e28/XC.json"
-        }
-        ,
+        },
+        {
+            "name": "向雅晴",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+        },
         {
             "name": "🐯精简",
             "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
@@ -40,6 +43,10 @@
         {
             "name": "5️⃣吾爱",
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
+        },
+         {
+            "name": "讴歌",
+            "url": "http://tv.nxog.top/m/"
         },
         {
             "name": "🚒运输",
